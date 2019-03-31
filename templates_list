@@ -1,0 +1,11 @@
+[  
+   {  
+      "key":"gitlab-ci",
+      "name":".gitlab-ci.yaml"
+   },
+   {  
+      "key":"kubernetes",
+      "name":"kubernetes.yaml"
+   },
+   
+]
